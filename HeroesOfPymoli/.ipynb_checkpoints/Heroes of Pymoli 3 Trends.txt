@@ -1,0 +1,9 @@
+Heroes of Pymoli Observations:
+
+Three Observable Trends:
+
+1) Majority of the current player base are Male, accounting for 84% of the player base, with female & undisclosed accounting for 16% of the player base. 
+
+2) Female and Other Gender groups tend to have fewer purchase frequencies than Men with a combined frequency of 128 purchases, but pay higher average prices for their games ($3.23 & $3.35 respectively). 
+
+3) 1/3rd of our player base are in the age range 21 - 25 years old, and over 1/2th of the player base are within the age range 17 - 25, accounting for 59% of the total player base. 
